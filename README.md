@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wazzer007
-- 👀 I’m interested in ... something
-- 🌱 I’m currently learning ... math
+- 👀 I’m interested in Ethical hacking something
+- 🌱 I’m currently learning ... math and physics
 - 💞️ I’m looking to collaborate on ... blender
 - 📫 How to reach me ... you can reach me on git hub
 
