@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ec1Ipc3
-- 👀 I’m interested in Ethical hacking something
+- 👀 I’m interested in Ethical hacking
 - 🌱 I’m currently learning ... math and physics
-- 💞️ I’m looking to collaborate on ... blender
 - 📫 How to reach me ... you can reach me on git hub
