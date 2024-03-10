@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Ec1Ipc3
-- 👀 I’m interested in Ethical hacking
-- 🌱 I’m currently learning ... math and physics
-- 📫 How to reach me ... you can reach me on git hub
+This Is Manim Repository For Binder Notebook
